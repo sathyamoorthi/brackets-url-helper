@@ -1,0 +1,12 @@
+{
+    "name": "brackets-url-helper",
+    "title": "URL Helper",
+    "description": "right-click on http Or https, this exension will select entire url and give you an option to go to that url",
+    "homepage": "https://groups.google.com/forum/#!topic/brackets-dev/gHu78II9VfA",
+    "version": "0.0.2",
+    "author": "Sathyamoorthi<sathyamoorthi10@gmail.com>",
+    "files": [
+        "main.js",
+        "README.md"
+    ]
+}
